@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\bin\Debug\net7.0\Encapsulation-13.exe
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\bin\Debug\net7.0\Encapsulation-13.deps.json
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\bin\Debug\net7.0\Encapsulation-13.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\bin\Debug\net7.0\Encapsulation-13.dll
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\bin\Debug\net7.0\Encapsulation-13.pdb
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.dll
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\refint\Encapsulation-13.dll
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.pdb
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\Encapsulation-13.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Encapsulation-13\Encapsulation-13\obj\Debug\net7.0\ref\Encapsulation-13.dll

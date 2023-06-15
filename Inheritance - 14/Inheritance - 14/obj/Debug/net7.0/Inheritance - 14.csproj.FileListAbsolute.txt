@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\bin\Debug\net7.0\Inheritance - 14.exe
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\bin\Debug\net7.0\Inheritance - 14.deps.json
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\bin\Debug\net7.0\Inheritance - 14.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\bin\Debug\net7.0\Inheritance - 14.dll
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\bin\Debug\net7.0\Inheritance - 14.pdb
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.dll
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\refint\Inheritance - 14.dll
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.pdb
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\Inheritance - 14.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Inheritance - 14\Inheritance - 14\obj\Debug\net7.0\ref\Inheritance - 14.dll
