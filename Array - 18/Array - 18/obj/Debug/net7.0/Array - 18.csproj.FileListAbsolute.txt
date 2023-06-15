@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\bin\Debug\net7.0\Array - 18.exe
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\bin\Debug\net7.0\Array - 18.deps.json
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\bin\Debug\net7.0\Array - 18.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\bin\Debug\net7.0\Array - 18.dll
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\bin\Debug\net7.0\Array - 18.pdb
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.dll
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\refint\Array - 18.dll
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.pdb
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\Array - 18.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Array - 18\Array - 18\obj\Debug\net7.0\ref\Array - 18.dll

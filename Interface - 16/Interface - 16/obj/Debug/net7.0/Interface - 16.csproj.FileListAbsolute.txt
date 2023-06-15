@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\bin\Debug\net7.0\Interface - 16.exe
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\bin\Debug\net7.0\Interface - 16.deps.json
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\bin\Debug\net7.0\Interface - 16.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\bin\Debug\net7.0\Interface - 16.dll
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\bin\Debug\net7.0\Interface - 16.pdb
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.dll
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\refint\Interface - 16.dll
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.pdb
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\Interface - 16.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Interface - 16\Interface - 16\obj\Debug\net7.0\ref\Interface - 16.dll
