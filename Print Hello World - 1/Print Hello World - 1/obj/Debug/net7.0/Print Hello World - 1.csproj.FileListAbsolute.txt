@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\bin\Debug\net7.0\Print Hello World - 1.exe
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\bin\Debug\net7.0\Print Hello World - 1.deps.json
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\bin\Debug\net7.0\Print Hello World - 1.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\bin\Debug\net7.0\Print Hello World - 1.dll
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\bin\Debug\net7.0\Print Hello World - 1.pdb
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.dll
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\refint\Print Hello World - 1.dll
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.pdb
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\Print Hello World - 1.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Print Hello World - 1\Print Hello World - 1\obj\Debug\net7.0\ref\Print Hello World - 1.dll

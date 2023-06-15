@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\bin\Debug\net7.0\Switch Case - 3.exe
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\bin\Debug\net7.0\Switch Case - 3.deps.json
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\bin\Debug\net7.0\Switch Case - 3.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\bin\Debug\net7.0\Switch Case - 3.dll
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\bin\Debug\net7.0\Switch Case - 3.pdb
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.dll
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\refint\Switch Case - 3.dll
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.pdb
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\Switch Case - 3.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Switch Case - 3\Switch Case - 3\obj\Debug\net7.0\ref\Switch Case - 3.dll
