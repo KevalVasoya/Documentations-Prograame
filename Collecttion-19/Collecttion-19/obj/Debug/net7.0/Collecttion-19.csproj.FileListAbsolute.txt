@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\bin\Debug\net7.0\Collecttion-19.exe
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\bin\Debug\net7.0\Collecttion-19.deps.json
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\bin\Debug\net7.0\Collecttion-19.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\bin\Debug\net7.0\Collecttion-19.dll
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\bin\Debug\net7.0\Collecttion-19.pdb
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.dll
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\refint\Collecttion-19.dll
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.pdb
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\Collecttion-19.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Collecttion-19\Collecttion-19\obj\Debug\net7.0\ref\Collecttion-19.dll

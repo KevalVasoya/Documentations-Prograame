@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\bin\Debug\net7.0\Dictinoary Adding -20.exe
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\bin\Debug\net7.0\Dictinoary Adding -20.deps.json
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\bin\Debug\net7.0\Dictinoary Adding -20.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\bin\Debug\net7.0\Dictinoary Adding -20.dll
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\bin\Debug\net7.0\Dictinoary Adding -20.pdb
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.dll
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\refint\Dictinoary Adding -20.dll
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.pdb
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\Dictinoary Adding -20.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Dictinoary Adding -20\Dictinoary Adding -20\obj\Debug\net7.0\ref\Dictinoary Adding -20.dll
