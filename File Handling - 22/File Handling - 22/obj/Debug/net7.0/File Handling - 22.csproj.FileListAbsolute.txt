@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\bin\Debug\net7.0\File Handling - 22.exe
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\bin\Debug\net7.0\File Handling - 22.deps.json
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\bin\Debug\net7.0\File Handling - 22.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\bin\Debug\net7.0\File Handling - 22.dll
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\bin\Debug\net7.0\File Handling - 22.pdb
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.dll
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\refint\File Handling - 22.dll
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.pdb
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\File Handling - 22.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\File Handling - 22\File Handling - 22\obj\Debug\net7.0\ref\File Handling - 22.dll

@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\bin\Debug\net7.0\Upload - 23.exe
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\bin\Debug\net7.0\Upload - 23.deps.json
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\bin\Debug\net7.0\Upload - 23.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\bin\Debug\net7.0\Upload - 23.dll
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\bin\Debug\net7.0\Upload - 23.pdb
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.dll
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\refint\Upload - 23.dll
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.pdb
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\Upload - 23.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Upload - 23\Upload - 23\obj\Debug\net7.0\ref\Upload - 23.dll
