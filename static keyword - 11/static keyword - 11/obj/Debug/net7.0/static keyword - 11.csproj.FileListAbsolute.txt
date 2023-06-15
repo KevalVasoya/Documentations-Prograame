@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\bin\Debug\net7.0\static keyword - 11.exe
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\bin\Debug\net7.0\static keyword - 11.deps.json
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\bin\Debug\net7.0\static keyword - 11.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\bin\Debug\net7.0\static keyword - 11.dll
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\bin\Debug\net7.0\static keyword - 11.pdb
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.dll
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\refint\static keyword - 11.dll
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.pdb
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\static keyword - 11.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\static keyword - 11\static keyword - 11\obj\Debug\net7.0\ref\static keyword - 11.dll

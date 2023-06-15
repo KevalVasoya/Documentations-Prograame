@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\bin\Debug\net7.0\Data Abstraction -12.exe
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\bin\Debug\net7.0\Data Abstraction -12.deps.json
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\bin\Debug\net7.0\Data Abstraction -12.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\bin\Debug\net7.0\Data Abstraction -12.dll
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\bin\Debug\net7.0\Data Abstraction -12.pdb
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.dll
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\refint\Data Abstraction -12.dll
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.pdb
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\Data Abstraction -12.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Data Abstraction -12\Data Abstraction -12\obj\Debug\net7.0\ref\Data Abstraction -12.dll

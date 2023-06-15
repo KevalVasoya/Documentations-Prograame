@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\bin\Debug\net7.0\this KeyWord - 10.exe
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\bin\Debug\net7.0\this KeyWord - 10.deps.json
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\bin\Debug\net7.0\this KeyWord - 10.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\bin\Debug\net7.0\this KeyWord - 10.dll
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\bin\Debug\net7.0\this KeyWord - 10.pdb
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.dll
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\refint\this KeyWord - 10.dll
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.pdb
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\this KeyWord - 10.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\this KeyWord - 10\this KeyWord - 10\obj\Debug\net7.0\ref\this KeyWord - 10.dll
