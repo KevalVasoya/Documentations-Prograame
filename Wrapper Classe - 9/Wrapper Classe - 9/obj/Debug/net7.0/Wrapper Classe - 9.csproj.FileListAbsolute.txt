@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\bin\Debug\net7.0\Wrapper Classe - 9.exe
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\bin\Debug\net7.0\Wrapper Classe - 9.deps.json
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\bin\Debug\net7.0\Wrapper Classe - 9.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\bin\Debug\net7.0\Wrapper Classe - 9.dll
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\bin\Debug\net7.0\Wrapper Classe - 9.pdb
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.dll
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\refint\Wrapper Classe - 9.dll
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.pdb
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\Wrapper Classe - 9.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\Wrapper Classe - 9\Wrapper Classe - 9\obj\Debug\net7.0\ref\Wrapper Classe - 9.dll

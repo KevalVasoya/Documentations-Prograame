@@ -1,0 +1,15 @@
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.csproj.CoreCompileInputs.cache
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\bin\Debug\net7.0\EMICalculator using operator - 8.exe
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\bin\Debug\net7.0\EMICalculator using operator - 8.deps.json
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\bin\Debug\net7.0\EMICalculator using operator - 8.runtimeconfig.json
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\bin\Debug\net7.0\EMICalculator using operator - 8.dll
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\bin\Debug\net7.0\EMICalculator using operator - 8.pdb
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.dll
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\refint\EMICalculator using operator - 8.dll
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.pdb
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\EMICalculator using operator - 8.genruntimeconfig.cache
+C:\Users\Keval\source\repos\Prograam\EMICalculator using operator - 8\EMICalculator using operator - 8\obj\Debug\net7.0\ref\EMICalculator using operator - 8.dll
